@@ -16,33 +16,4 @@ The project involved training and evaluating three classifier models: Random For
 https://github.com/HariprasathM1611/Intelligent-Activity-Detection-Model-for-Mobile-Fitness-Application/tree/main/Source%20code
 
 # Skills Earned
-Data Analysis and Preprocessing
 
-Exploratory Data Analysis (EDA)
-Data Cleaning
-Feature Engineering
-
-Statistical Feature Extraction
-Machine Learning
-
-Model Training and Evaluation
-Performance Metrics (Accuracy, Precision, Recall, F1 Score)
-Confusion Matrix Analysis
-Programming and Implementation
-
-Custom Modules and Functions
-File Processing and Exception Handling
-Tools and Libraries
-
-NumPy
-Pandas
-Matplotlib
-Scikit-learn
-Model Deployment
-
-Model Serialization (joblib)
-Real-world Application of Models
-Critical Thinking and Problem Solving
-
-Model Selection
-Data-driven Decision Making
