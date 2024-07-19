@@ -15,5 +15,4 @@ The project involved training and evaluating three classifier models: Random For
 # source code
 https://github.com/HariprasathM1611/Intelligent-Activity-Detection-Model-for-Mobile-Fitness-Application/tree/main/Source%20code
 
-# Skills Earned
 
